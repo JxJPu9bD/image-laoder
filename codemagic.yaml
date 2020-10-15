@@ -6,8 +6,8 @@ workflows:
         name: iOS App
         environment:
             vars:
-                XCODE_WORKSPACE: "{{ ImageLoader }}"
-                XCODE_SCHEME: "{{ ImageLoader }}"
+                XCODE_WORKSPACE: "ImageLoader"
+                XCODE_SCHEME: "ImageLoader"
             xcode: latest
             cocoapods: default
         scripts:
