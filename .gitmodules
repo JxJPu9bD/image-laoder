@@ -1,0 +1,3 @@
+[submodule "lib/YXExtension"]
+	path = lib/YXExtension
+	url = git@git.iyunxiao.com:sunchunhui/YXExtension.git
